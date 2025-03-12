@@ -1,4 +1,4 @@
-# Cisco_Packet_Tracer
+# Hospital Network
 Replicated a hospital network using cisco packet tracer.
 
 ## Features
