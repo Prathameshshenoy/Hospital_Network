@@ -8,6 +8,7 @@ Replicated a hospital network using cisco packet tracer.
 4. IOT Servers for IOT devices
 
 Screenshots
+
 ![Screenshot 2025-03-12 at 5 38 18 PM](https://github.com/user-attachments/assets/fbf93831-62ef-486f-85ad-86cdc8bbc4da)
 ![Screenshot 2025-03-12 at 5 41 00 PM](https://github.com/user-attachments/assets/597f664f-9cf0-44dc-8518-63f1a362c54e)
 ![Screenshot 2025-03-12 at 5 41 20 PM](https://github.com/user-attachments/assets/35674a20-a91a-42cf-a337-b7552b9e99fa)
