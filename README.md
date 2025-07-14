@@ -49,4 +49,6 @@ It demonstrates a realistic scenario of how modern hospitals connect multiple de
 - Great hands-on lab for CCNA-level understanding.
 
 ---
+## 📄 **License**
 
+MIT License
